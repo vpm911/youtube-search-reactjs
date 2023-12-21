@@ -7,7 +7,7 @@ import VideoDetail from './components/VideoDetail/VideoDetail';
 import Nav from './components/Nav/Nav';
 // styles
 import { Container } from './appStyles.js';
-// Personal Key, it would be hidden for you. Get One!
+// Personal Key
 import API_KEY from './key';
 
 function App() {
